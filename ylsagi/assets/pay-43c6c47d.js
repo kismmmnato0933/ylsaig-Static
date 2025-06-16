@@ -1,0 +1,1 @@
+import{s as e}from"./index-a8d94833.js";function o(t){return e({url:"/tolinks/v2/pay/checkout",method:"get",params:t})}function i(t){return e({url:"/tolinks/v3/pay/getPrice",method:"get",params:t})}export{o as A,i as a};
