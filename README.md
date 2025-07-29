@@ -21,3 +21,8 @@
 提供沉浸式翻译插件集成，接入GPT-4o 模型
 
 ✅ 最新AI大模型 集成主流最强的AI模型，及时跟进更新，使用各平台最新模型
+
+
+
+![伊莉思免费GPT 4.1](https://static.ylsagi.com/img/translation.png)
+
